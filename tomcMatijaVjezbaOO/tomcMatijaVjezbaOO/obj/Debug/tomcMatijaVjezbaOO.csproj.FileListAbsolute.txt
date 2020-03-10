@@ -1,0 +1,7 @@
+C:\Users\3.D\source\repos\tomcMatijaVjezbaOO\tomcMatijaVjezbaOO\bin\Debug\tomcMatijaVjezbaOO.exe.config
+C:\Users\3.D\source\repos\tomcMatijaVjezbaOO\tomcMatijaVjezbaOO\bin\Debug\tomcMatijaVjezbaOO.exe
+C:\Users\3.D\source\repos\tomcMatijaVjezbaOO\tomcMatijaVjezbaOO\bin\Debug\tomcMatijaVjezbaOO.pdb
+C:\Users\3.D\source\repos\tomcMatijaVjezbaOO\tomcMatijaVjezbaOO\obj\Debug\tomcMatijaVjezbaOO.csprojAssemblyReference.cache
+C:\Users\3.D\source\repos\tomcMatijaVjezbaOO\tomcMatijaVjezbaOO\obj\Debug\tomcMatijaVjezbaOO.csproj.CoreCompileInputs.cache
+C:\Users\3.D\source\repos\tomcMatijaVjezbaOO\tomcMatijaVjezbaOO\obj\Debug\tomcMatijaVjezbaOO.exe
+C:\Users\3.D\source\repos\tomcMatijaVjezbaOO\tomcMatijaVjezbaOO\obj\Debug\tomcMatijaVjezbaOO.pdb
