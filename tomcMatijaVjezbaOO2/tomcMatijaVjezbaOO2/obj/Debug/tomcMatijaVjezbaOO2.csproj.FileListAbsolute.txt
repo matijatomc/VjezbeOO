@@ -1,0 +1,6 @@
+C:\Users\Matija\Desktop\VjezbeOO-master\tomcMatijaVjezbaOO2\tomcMatijaVjezbaOO2\bin\Debug\tomcMatijaVjezbaOO2.exe.config
+C:\Users\Matija\Desktop\VjezbeOO-master\tomcMatijaVjezbaOO2\tomcMatijaVjezbaOO2\bin\Debug\tomcMatijaVjezbaOO2.exe
+C:\Users\Matija\Desktop\VjezbeOO-master\tomcMatijaVjezbaOO2\tomcMatijaVjezbaOO2\bin\Debug\tomcMatijaVjezbaOO2.pdb
+C:\Users\Matija\Desktop\VjezbeOO-master\tomcMatijaVjezbaOO2\tomcMatijaVjezbaOO2\obj\Debug\tomcMatijaVjezbaOO2.csprojAssemblyReference.cache
+C:\Users\Matija\Desktop\VjezbeOO-master\tomcMatijaVjezbaOO2\tomcMatijaVjezbaOO2\obj\Debug\tomcMatijaVjezbaOO2.exe
+C:\Users\Matija\Desktop\VjezbeOO-master\tomcMatijaVjezbaOO2\tomcMatijaVjezbaOO2\obj\Debug\tomcMatijaVjezbaOO2.pdb

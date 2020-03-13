@@ -10,9 +10,14 @@ namespace tomcMatijaVjezbaOO2
     {
         static void Main(string[] args)
         {
-            Vozila auto = new Vozila("Auto",4);
+            Vozila automobil = new Vozila("Automobil",4);
+            Vozila motocikl = new Vozila("Motocikl", 2);
             Console.WriteLine("Upisite max brzinu auta: ");
-            auto.MaxBrzina=  Convert.ToInt32(Console.ReadLine());
+            automobil.MaxBrzina=  Convert.ToInt32(Console.ReadLine());
+            motocikl.MaxBrzina = automobil.MaxBrzina * 13 / 10;
+            Console.WriteLine(automobil.ToString());
+            Console.WriteLine(motocikl.ToString());
+            Console.ReadKey();
         }
     }
 }

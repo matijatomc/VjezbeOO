@@ -14,7 +14,7 @@ namespace tomcMatijaVjezbaOO2
 
         public override string ToString()
         {
-            string ispis = "\nVrsta: " + vrsta + "\nMax brzina: " + maxBrzina + " kmh" + "\nBroj kotača: " + brojKotaca;
+            string ispis = "\nVrsta: " + vrsta + "\nMax brzina: " + maxBrzina + " km/h" + "\nBroj kotača: " + brojKotaca;
             return ispis;
         }
         public string Vrsta { get => vrsta; set => vrsta = value; }
